@@ -1,3 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Keep all your custom styles from earlier */
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-gray-100 transition-colors duration-300;
+  }
+}
+
+
+@layer components {
+  .btn-primary {
+    @apply bg-royal-blue-600 text-white px-6 py-3 rounded-lg font-medium 
+           hover:bg-royal-blue-700 transition-colors duration-200 
+           focus:outline-none focus:ring-2 focus:ring-royal-blue-500 focus:ring-offset-2
+           dark:focus:ring-offset-gray-800;
+  }
+  
+  .btn-secondary {
+    @apply bg-white text-royal-blue-600 border border-royal-blue-200 px-6 py-3 rounded-lg font-medium
+           hover:bg-royal-blue-50 transition-colors duration-200
+           focus:outline-none focus:ring-2 focus:ring-royal-blue-500 focus:ring-offset-2
+           dark:bg-gray-800 dark:text-royal-blue-400 dark:border-gray-700 dark:hover:bg-gray-700
+           dark:focus:ring-offset-gray-800;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300 
+           border border-gray-200 dark:bg-gray-800 dark:border-gray-700 dark:hover:shadow-gray-900/30;
+  }
+  
+  .input-field {
+    @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-royal-blue-500 
+           focus:border-transparent outline-none transition-all duration-200
+           dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:focus:ring-royal-blue-400;
+  }
+  
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-gray-800 dark:text-white mb-4;
+  }
+  
+  .section-subtitle {
+    @apply text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-2xl;
+  }
+}
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;

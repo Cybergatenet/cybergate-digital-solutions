@@ -1,0 +1,1330 @@
+{
+  "programs": [
+    
+    {
+      "id": "cwp-001",
+      "title": "Certificate in Word Processing",
+      "code": "CWP",
+      "category": "certificate",
+      "duration": "2 Weeks",
+      "price": 14000,
+      "shortDescription": "Basic computer operation and MS Word skills for beginners",
+      "description": "This course provides fundamental computer skills with focus on word processing using Microsoft Word. Perfect for office assistants, students, and anyone needing basic computer literacy.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Introduction to Computers", "Hardware Components", "Software Types", "Input/Output Devices"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["File Management", "System Maintenance", "Backup Procedures", "Virus Protection"] },
+        { "id": 3, "title": "Paint Program", "topics": ["Basic Graphic Tools", "Image Editing", "Drawing Techniques"] },
+        { "id": 4, "title": "MS Word", "topics": ["Document Creation", "Formatting Text", "Tables and Lists", "Mail Merge", "Document Templates"] },
+        { "id": 5, "title": "Internet and E-mail Utilization", "topics": ["Web Browsing", "Email Setup", "Online Communication", "Internet Safety"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "afternoon", "time": "12:30 PM - 3:30 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "evening", "time": "4:00 PM - 6:00 PM", "days": ["Mon", "Wed", "Fri"] },
+        { "type": "weekend", "time": "9:00 AM - 4:00 PM", "days": ["Fri", "Sat"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "csp-002",
+      "title": "Certificate in Spreadsheet Application",
+      "code": "CSP",
+      "category": "certificate",
+      "duration": "2 Weeks",
+      "price": 14000,
+      "shortDescription": "Master Microsoft Excel for data analysis and business applications",
+      "description": "Comprehensive training in spreadsheet applications using Microsoft Excel. Learn formulas, functions, charts, and data analysis techniques.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Computer Basics", "System Operations", "File Management"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Windows Navigation", "System Tools", "Maintenance"] },
+        { "id": 3, "title": "Paint Program", "topics": ["Basic Graphics", "Image Manipulation"] },
+        { "id": 4, "title": "Spreadsheet (MS Excel)", "topics": ["Worksheet Creation", "Formulas and Functions", "Charts and Graphs", "Data Analysis", "Pivot Tables"] },
+        { "id": 5, "title": "Internet and E-mail Utilization", "topics": ["Online Research", "Email Management", "Cloud Storage"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "weekend", "time": "9:00 AM - 4:00 PM", "days": ["Sat"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cdm-003",
+      "title": "Certificate in Database Management System",
+      "code": "CDM",
+      "category": "certificate",
+      "duration": "2 Weeks",
+      "price": 14000,
+      "shortDescription": "Learn database creation and management using MS Access",
+      "description": "Introduction to database concepts and practical skills in Microsoft Access for data storage, retrieval, and management.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Computer Fundamentals", "System Components"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["OS Navigation", "File Systems"] },
+        { "id": 3, "title": "Paint Program", "topics": ["Basic Design Tools"] },
+        { "id": 4, "title": "Database (MS Access)", "topics": ["Table Creation", "Queries Design", "Forms Development", "Reports Generation", "Relationship Management"] },
+        { "id": 5, "title": "Internet and E-mail Utilization", "topics": ["Web Tools", "Email Systems"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "evening", "time": "4:00 PM - 6:00 PM", "days": ["Mon", "Wed", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cco-004",
+      "title": "Certificate in Computer Operation for JSS Students",
+      "code": "CCO",
+      "category": "certificate",
+      "duration": "2 Months",
+      "price": 20000,
+      "shortDescription": "Special computer training program for Junior Secondary School students",
+      "description": "Comprehensive computer education designed specifically for JSS students, covering fundamental computer skills and applications.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Introduction to Computers", "Computer Parts", "Safe Computer Use"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Basic File Management", "Software Installation", "System Care"] },
+        { "id": 3, "title": "Typing Skill (Mavis)", "topics": ["Keyboard Familiarization", "Touch Typing", "Speed Building"] },
+        { "id": 4, "title": "Paint Program", "topics": ["Digital Drawing", "Color Theory", "Image Creation"] },
+        { "id": 5, "title": "Word Processing (MS Word)", "topics": ["Document Creation", "Basic Formatting", "School Projects"] },
+        { "id": 6, "title": "Spreadsheet (MS Excel)", "topics": ["Simple Calculations", "Data Entry", "Basic Charts"] },
+        { "id": 7, "title": "Internet and E-mail", "topics": ["Safe Internet Browsing", "Email Creation", "Online Research"] }
+      ],
+      "sessions": [
+        { "type": "afternoon", "time": "12:30 PM - 3:30 PM", "days": ["Mon", "Wed", "Fri"] },
+        { "type": "weekend", "time": "9:00 AM - 12:00 PM", "days": ["Sat"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": true, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "ctf-005",
+      "title": "Certificate in Computer Operation",
+      "code": "CTF",
+      "category": "certificate",
+      "duration": "2 Months",
+      "price": 28000,
+      "shortDescription": "Complete computer operation training for office and personal use",
+      "description": "Comprehensive computer operation course covering Windows, typing, MS Office, and internet skills for workplace readiness.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Computer Fundamentals", "Hardware Components", "Software Types"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Windows Navigation", "File Organization", "System Maintenance"] },
+        { "id": 3, "title": "MS Windows (GUI)", "topics": ["Desktop Management", "Control Panel", "User Accounts"] },
+        { "id": 4, "title": "Typing Skills (Mavis)", "topics": ["Proper Typing Technique", "Speed Development", "Accuracy Training"] },
+        { "id": 5, "title": "Word Processing (MS Word)", "topics": ["Advanced Formatting", "Document Templates", "Collaboration Tools"] },
+        { "id": 6, "title": "Spreadsheet (MS Excel)", "topics": ["Formulas and Functions", "Data Analysis", "Business Applications"] },
+        { "id": 7, "title": "Internet and E-mail Utilization", "topics": ["Advanced Browsing", "Email Management", "Online Security"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "evening", "time": "4:00 PM - 6:00 PM", "days": ["Mon", "Wed", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cta-006",
+      "title": "Advanced Certificate in Computer Operation and Application to Business Transaction",
+      "code": "CTA",
+      "category": "certificate",
+      "duration": "4 Months",
+      "price": 34000,
+      "shortDescription": "Advanced computer applications for business and professional use",
+      "description": "Comprehensive training in computer applications tailored for business transactions, including web design basics.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Advanced Computer Concepts", "System Architecture"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Advanced System Administration", "Troubleshooting"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Command Line Operations", "Batch Files", "System Commands"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Advanced Windows Features", "System Configuration"] },
+        { "id": 5, "title": "Typing Skills (Mavis)", "topics": ["Professional Typing", "Document Formatting"] },
+        { "id": 6, "title": "Word Processing (MS Word)", "topics": ["Business Documents", "Advanced Features", "Templates"] },
+        { "id": 7, "title": "Spreadsheet (MS Excel)", "topics": ["Business Analysis", "Advanced Formulas", "Macros"] },
+        { "id": 8, "title": "Database (MS Access)", "topics": ["Business Database Design", "Queries", "Reports"] },
+        { "id": 9, "title": "Internet and E-mail Utilization", "topics": ["Business Communication", "Online Collaboration"] },
+        { "id": 10, "title": "Introduction to Web Application and Design", "topics": ["Basic HTML", "Website Concepts", "Online Business Tools"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cte-007",
+      "title": "Certificate in Computer Operation and Application to Business Transaction (Special Package for Corpers)",
+      "code": "CTE",
+      "category": "certificate",
+      "duration": "3 Months",
+      "price": 36000,
+      "shortDescription": "Specialized computer training package for NYSC corps members",
+      "description": "Comprehensive computer application training designed specifically for NYSC corps members to enhance their workplace skills.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Computer Basics for Workplace", "System Operations"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Office System Management", "Network Basics"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Command Line Basics", "File Management"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Windows for Office", "User Management"] },
+        { "id": 5, "title": "Typing Skills (Mavis)", "topics": ["Professional Typing Speed", "Accuracy"] },
+        { "id": 6, "title": "Word Processing (MS Word)", "topics": ["Office Documents", "Reports", "Correspondence"] },
+        { "id": 7, "title": "Spreadsheet (MS Excel)", "topics": ["Data Analysis", "Office Calculations", "Reporting"] },
+        { "id": 8, "title": "Database (MS Access)", "topics": ["Office Database Management", "Records Keeping"] },
+        { "id": 9, "title": "Internet and E-mail Utilization", "topics": ["Professional Email", "Online Research", "Communication"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "weekend", "time": "9:00 AM - 4:00 PM", "days": ["Sat"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": true, "isActive": true
+    },
+    {
+      "id": "hpc-008",
+      "title": "Holiday Program for Primary Pupils",
+      "code": "HPC",
+      "category": "certificate",
+      "duration": "4 Weeks",
+      "price": 12000,
+      "shortDescription": "Fun and educational computer program for primary school children during holidays",
+      "description": "Interactive computer learning program designed for primary school pupils to develop basic computer skills in a fun environment.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Computer Basics for Kids", "Safe Computer Use", "Educational Software"] },
+        { "id": 2, "title": "MS Windows (GUI)", "topics": ["Basic Navigation", "Game Installation", "Parental Controls"] },
+        { "id": 3, "title": "Paint Program", "topics": ["Digital Art", "Color Mixing", "Creative Drawing"] },
+        { "id": 4, "title": "Power Point", "topics": ["Simple Presentations", "School Projects", "Story Telling"] },
+        { "id": 5, "title": "Word Processing (MS Word)", "topics": ["Writing Stories", "Formatting Text", "Printing Documents"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 12:00 PM", "days": ["Mon", "Wed", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": true, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cdp-009",
+      "title": "Certificate in Desktop Publishing",
+      "code": "CDP",
+      "category": "certificate",
+      "duration": "4 Months",
+      "price": 36000,
+      "shortDescription": "Professional desktop publishing skills using Corel Draw and Photoshop",
+      "description": "Comprehensive training in desktop publishing tools including Corel Draw, Photoshop, and Publisher for creating professional print materials.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Computer Basics for Design", "Hardware Requirements"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["File Management for Designers", "System Optimization"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Command Line Basics", "File Operations"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Windows for Design Work", "Display Settings"] },
+        { "id": 5, "title": "Typing Skills (Mavis)", "topics": ["Text Input for Design", "Accuracy Training"] },
+        { "id": 6, "title": "Word Processing (MS Word)", "topics": ["Text Preparation", "Document Layout"] },
+        { "id": 7, "title": "Publisher (MS Publisher)", "topics": ["Brochure Design", "Flyer Creation", "Newsletter Layout"] },
+        { "id": 8, "title": "Corel Draw (Basics)", "topics": ["Vector Graphics", "Logo Design", "Illustration"] },
+        { "id": 9, "title": "Photoshop (Basics)", "topics": ["Photo Editing", "Image Manipulation", "Retouching"] },
+        { "id": 10, "title": "MS Power Point", "topics": ["Presentation Design", "Slide Layout", "Animation"] },
+        { "id": 11, "title": "Internet and E-mail Utilization", "topics": ["Online Resources", "Client Communication", "File Sharing"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "weekend", "time": "9:00 AM - 4:00 PM", "days": ["Sat"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "ctp-010",
+      "title": "Certificate in Desktop Publishing (Post Operation Course)",
+      "code": "CTP",
+      "category": "certificate",
+      "duration": "3 Months",
+      "price": 36000,
+      "shortDescription": "Advanced desktop publishing for those with basic computer operation knowledge",
+      "description": "Advanced desktop publishing course focusing on professional design tools and modern office equipment operation.",
+      "outline": [
+        { "id": 1, "title": "MS Windows (GUI)", "topics": ["Advanced Windows Features", "System Settings"] },
+        { "id": 2, "title": "Modern Office Equipment", "topics": ["Scanning Techniques", "Printing Operations", "Laminating", "Photocopying"] },
+        { "id": 3, "title": "Corel Draw", "topics": ["Advanced Vector Design", "Professional Layout", "Print Preparation"] },
+        { "id": 4, "title": "Photoshop", "topics": ["Advanced Photo Editing", "Digital Imaging", "Creative Effects"] },
+        { "id": 5, "title": "Internet and E-mail Utilization", "topics": ["Digital Marketing", "Client Presentations", "Online Portfolio"] },
+        { "id": 6, "title": "Computer Applications to Business Transactions", "topics": ["Business Design Work", "Client Management", "Project Pricing"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cop-011",
+      "title": "Certificate in MS Office Suites",
+      "code": "COP",
+      "category": "certificate",
+      "duration": "4 Months",
+      "price": 35000,
+      "shortDescription": "Complete Microsoft Office package training",
+      "description": "Master all Microsoft Office applications including Word, Excel, Access, PowerPoint, and Publisher for professional office work.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Computer Fundamentals", "System Requirements"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Office System Setup", "Network Basics"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Command Line Basics"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Windows for Office"] },
+        { "id": 5, "title": "Typing Skills (Mavis)", "topics": ["Professional Typing"] },
+        { "id": 6, "title": "Word Processing (MS Word)", "topics": ["Advanced Word Features"] },
+        { "id": 7, "title": "Spreadsheet (MS Excel)", "topics": ["Advanced Excel Functions"] },
+        { "id": 8, "title": "Database (MS Access)", "topics": ["Database Management"] },
+        { "id": 9, "title": "Presentation (MS Power Point)", "topics": ["Professional Presentations"] },
+        { "id": 10, "title": "MS Publishing", "topics": ["Desktop Publishing"] },
+        { "id": 11, "title": "Internet and E-mail Utilization", "topics": ["Office Communication"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cae-012",
+      "title": "Certificate in Audio Editing",
+      "code": "CAE",
+      "category": "certificate",
+      "duration": "2 Weeks",
+      "price": 22000,
+      "shortDescription": "Professional audio editing and sound recording skills",
+      "description": "Learn professional audio editing techniques using Adobe Audition and Audacity for music production, podcasting, and sound design.",
+      "outline": [
+        { "id": 1, "title": "Internet and E-mail Utilization", "topics": ["Online Resources", "File Sharing"] },
+        { "id": 2, "title": "MS Sound Recorder", "topics": ["Basic Recording", "Sound Capture"] },
+        { "id": 3, "title": "Adobe Audition", "topics": ["Professional Audio Editing", "Effects Processing", "Mixing"] },
+        { "id": 4, "title": "Audacity", "topics": ["Open Source Editing", "Basic Processing", "Export Formats"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000, "studioPractical": 3000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dav-013",
+      "title": "Certificate in Audio-Video Recording and Editing",
+      "code": "DAV",
+      "category": "certificate",
+      "duration": "3 Months",
+      "price": 55000,
+      "shortDescription": "Complete audio-video production and editing course",
+      "description": "Comprehensive training in audio-video recording, editing, and production using professional software tools.",
+      "outline": [
+        { "id": 1, "title": "MS Windows (GUI)", "topics": ["System Optimization for Media"] },
+        { "id": 2, "title": "Internet and E-mail Utilization", "topics": ["Media File Sharing", "Online Resources"] },
+        { "id": 3, "title": "MS Movie Maker", "topics": ["Basic Video Editing", "Transitions", "Titles"] },
+        { "id": 4, "title": "Pinnacle Studio", "topics": ["Intermediate Editing", "Effects", "Audio Sync"] },
+        { "id": 5, "title": "Corel Video Studio", "topics": ["Advanced Editing", "Color Correction", "Titles"] },
+        { "id": 6, "title": "Adobe Premiere Pro", "topics": ["Professional Editing", "Effects", "Export Settings"] },
+        { "id": 7, "title": "Burning of CD/DVD", "topics": ["Disc Authoring", "Menu Creation", "Copy Protection"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000, "studioPractical": 3000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "iac-014",
+      "title": "Certificate in CompTIA A+",
+      "code": "IAC",
+      "category": "certificate",
+      "duration": "6 Months",
+      "price": 45000,
+      "shortDescription": "Computer operation, application & installation certification",
+      "description": "Comprehensive IT certification course covering computer hardware, software, networking, and security fundamentals.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["IT Fundamentals", "System Components"] },
+        { "id": 2, "title": "MS Windows", "topics": ["GUI & MS DOS", "System Administration"] },
+        { "id": 3, "title": "Presentation (MS Power Point)", "topics": ["Technical Presentations"] },
+        { "id": 4, "title": "Word Processing (MS Word)", "topics": ["Technical Documentation"] },
+        { "id": 5, "title": "Spreadsheet (MS Excel)", "topics": ["Technical Data Analysis"] },
+        { "id": 6, "title": "Database (MS Access)", "topics": ["Technical Database Management"] },
+        { "id": 7, "title": "Computer System Management", "topics": ["System Administration"] },
+        { "id": 8, "title": "Computer Configuration", "topics": ["Hardware Setup", "BIOS Configuration"] },
+        { "id": 9, "title": "Software and Hardware Installation", "topics": ["Driver Installation", "Application Setup"] },
+        { "id": 10, "title": "Internet and E-mail Utilization", "topics": ["Network Communication"] },
+        { "id": 11, "title": "Introduction to Web Application", "topics": ["Basic Web Concepts"] },
+        { "id": 12, "title": "Introduction to Graphic (Corel Draw)", "topics": ["Technical Illustration"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "weekend", "time": "9:00 AM - 4:00 PM", "days": ["Sat"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+
+    
+    {
+      "id": "dmk-015",
+      "title": "Diploma in Computer Application for Marketers",
+      "code": "DMK",
+      "category": "diploma",
+      "duration": "6 Months",
+      "price": 25000,
+      "shortDescription": "Computer applications specifically tailored for marketing professionals",
+      "description": "Specialized computer training for marketers, covering digital tools, affiliate marketing, and business applications.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Marketing Technology Basics"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Marketing System Setup"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Command Line for Marketing"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Windows for Marketing Tools"] },
+        { "id": 5, "title": "Typing Skills (Mavis)", "topics": ["Marketing Content Creation"] },
+        { "id": 6, "title": "Word Processing (MS Word)", "topics": ["Marketing Documents"] },
+        { "id": 7, "title": "Spreadsheet (MS Excel)", "topics": ["Marketing Data Analysis"] },
+        { "id": 8, "title": "Database (MS Access)", "topics": ["Customer Database Management"] },
+        { "id": 9, "title": "Introduction to Networking", "topics": ["Digital Networking"] },
+        { "id": 10, "title": "Computer Applications to Business Transactions", "topics": ["E-commerce Tools"] },
+        { "id": 11, "title": "Internet and E-mail Utilization", "topics": ["Digital Communication"] },
+        { "id": 12, "title": "Management Information System (MIS)", "topics": ["Marketing MIS"] },
+        { "id": 13, "title": "Affiliate Marketing", "topics": ["Online Marketing Strategies"] },
+        { "id": 14, "title": "Presentation (Power Point)", "topics": ["Marketing Presentations"] },
+        { "id": 15, "title": "Marketing Principles", "topics": ["Digital Marketing Basics"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "ite-016",
+      "title": "Diploma in Information Technology Management",
+      "code": "ITE",
+      "category": "diploma",
+      "duration": "9 Months",
+      "price": 95000,
+      "shortDescription": "Comprehensive IT management and programming course",
+      "description": "Advanced diploma covering IT management, programming, networking, and system administration for IT professionals.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Advanced IT Concepts"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["System Administration"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Advanced Command Line"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Windows Server Basics"] },
+        { "id": 5, "title": "Typing Skills (Mavis)", "topics": ["Technical Typing"] },
+        { "id": 6, "title": "Word Processing (MS Word)", "topics": ["Technical Documentation"] },
+        { "id": 7, "title": "Spreadsheet (MS Excel)", "topics": ["IT Data Analysis"] },
+        { "id": 8, "title": "Database (MS Access)", "topics": ["IT Database Management"] },
+        { "id": 9, "title": "Introduction to Networking", "topics": ["Network Fundamentals"] },
+        { "id": 10, "title": "Computer Application to Business Transactions", "topics": ["Business IT Solutions"] },
+        { "id": 11, "title": "Internet and E-mail Utilization", "topics": ["Professional IT Communication"] },
+        { "id": 12, "title": "Introduction to Web Application", "topics": ["Web Development Basics"] },
+        { "id": 13, "title": "Modern Office Equipment", "topics": ["IT Equipment Management"] },
+        { "id": 14, "title": "Text Editor / IDE", "topics": ["Development Environments"] },
+        { "id": 15, "title": "Basic Programming (C# Basic)", "topics": ["Programming Fundamentals"] },
+        { "id": 16, "title": "Introduction to C++ Programming", "topics": ["Object-Oriented Programming"] },
+        { "id": 17, "title": "Computer Installation", "topics": ["System Deployment"] },
+        { "id": 18, "title": "Power Point", "topics": ["Technical Presentations"] },
+        { "id": 19, "title": "Corel Draw", "topics": ["Technical Illustration"] },
+        { "id": 20, "title": "Adobe Photoshop", "topics": ["IT Graphics"] },
+        { "id": 21, "title": "Project Work", "topics": ["IT Project Implementation"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "sec-017",
+      "title": "Secretary Diploma Course",
+      "code": "SEC",
+      "category": "diploma",
+      "duration": "6 Months",
+      "price": 40000,
+      "shortDescription": "Professional secretarial training with modern office skills",
+      "description": "Comprehensive secretarial training covering office management, computer applications, and modern office equipment operation.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Office Computer Basics"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Office System Management"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Command Line Basics"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Windows Office Tools"] },
+        { "id": 5, "title": "Typing Skills (Mavis)", "topics": ["Professional Typing"] },
+        { "id": 6, "title": "Word Processing (MS Word)", "topics": ["Office Documentation"] },
+        { "id": 7, "title": "Spreadsheet (MS Excel)", "topics": ["Office Data Management"] },
+        { "id": 8, "title": "Database (MS Access)", "topics": ["Office Records Management"] },
+        { "id": 9, "title": "Internet and E-mail Utilization", "topics": ["Office Communication"] },
+        { "id": 10, "title": "Introduction to Web Application", "topics": ["Office Web Tools"] },
+        { "id": 11, "title": "Power Point (Presentation)", "topics": ["Office Presentations"] },
+        { "id": 12, "title": "Corel Draw", "topics": ["Office Graphics"] },
+        { "id": 13, "title": "Photoshop", "topics": ["Office Image Editing"] },
+        { "id": 14, "title": "Modern Office Equipment", "topics": ["Equipment Operation"] },
+        { "id": 15, "title": "MS Publisher", "topics": ["Office Publishing"] },
+        { "id": 16, "title": "Project Work", "topics": ["Secretarial Project"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "evening", "time": "4:00 PM - 6:00 PM", "days": ["Mon", "Wed", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "sef-018",
+      "title": "Advance Secretary Course",
+      "code": "SEF",
+      "category": "diploma",
+      "duration": "7 Months",
+      "price": 56000,
+      "shortDescription": "Advanced secretarial training with accounting and networking skills",
+      "description": "Advanced secretarial course covering accounting software, networking, audio editing, and enhanced office management skills.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Advanced Office Computing"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Advanced System Management"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Advanced Command Line"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Advanced Windows Features"] },
+        { "id": 5, "title": "Typing Skills (Mavis)", "topics": ["Advanced Typing"] },
+        { "id": 6, "title": "Word Processing (MS Word)", "topics": ["Advanced Documentation"] },
+        { "id": 7, "title": "Spreadsheet (MS Excel)", "topics": ["Advanced Data Analysis"] },
+        { "id": 8, "title": "Database (MS Access)", "topics": ["Advanced Database Management"] },
+        { "id": 9, "title": "QuickBook", "topics": ["Accounting Software"] },
+        { "id": 10, "title": "Internet and E-mail Utilization", "topics": ["Advanced Communication"] },
+        { "id": 11, "title": "Introduction to Networking", "topics": ["Office Networking"] },
+        { "id": 12, "title": "Introduction to Web Application", "topics": ["Web Tools for Secretaries"] },
+        { "id": 13, "title": "Audio Editing", "topics": ["Office Audio Production"] },
+        { "id": 14, "title": "Power Point (Presentation)", "topics": ["Advanced Presentations"] },
+        { "id": 15, "title": "Corel Draw", "topics": ["Advanced Graphics"] },
+        { "id": 16, "title": "Photoshop", "topics": ["Advanced Image Editing"] },
+        { "id": 17, "title": "Modern Office Equipment", "topics": ["Advanced Equipment Operation"] },
+        { "id": 18, "title": "MS Publisher", "topics": ["Advanced Publishing"] },
+        { "id": 19, "title": "Project Work", "topics": ["Advanced Secretarial Project"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "adp-019",
+      "title": "Diploma in Computer Application for Accountants",
+      "code": "ADP",
+      "category": "diploma",
+      "duration": "6 Months",
+      "price": 46000,
+      "shortDescription": "Computer applications specifically designed for accounting professionals",
+      "description": "Specialized computer training for accountants covering accounting software, payroll systems, and financial data management.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Accounting Technology"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Accounting System Setup"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Command Line for Accounting"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Windows for Accounting"] },
+        { "id": 5, "title": "Typing Skills (Mavis)", "topics": ["Accounting Data Entry"] },
+        { "id": 6, "title": "Word Processing (MS Word)", "topics": ["Financial Documentation"] },
+        { "id": 7, "title": "Spreadsheet (MS Excel)", "topics": ["Financial Analysis"] },
+        { "id": 8, "title": "Database (MS Access)", "topics": ["Financial Database Management"] },
+        { "id": 9, "title": "QuickBook", "topics": ["Accounting Software"] },
+        { "id": 10, "title": "Internet and E-mail Utilization", "topics": ["Financial Communication"] },
+        { "id": 11, "title": "Basic Programming (Introduction to Java)", "topics": ["Programming for Accountants"] },
+        { "id": 12, "title": "Accounting Operations (Payroll)", "topics": ["Payroll Management"] },
+        { "id": 13, "title": "Power Point (Presentation)", "topics": ["Financial Presentations"] },
+        { "id": 14, "title": "Introduction to Web Applications", "topics": ["Online Accounting Tools"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "ddp-020",
+      "title": "Diploma in Desktop Publishing",
+      "code": "DDP",
+      "category": "diploma",
+      "duration": "3 Months",
+      "price": 18000,
+      "shortDescription": "Professional desktop publishing and graphic design",
+      "description": "Focused training in desktop publishing tools for creating professional print and digital materials.",
+      "outline": [
+        { "id": 1, "title": "MS Windows", "topics": ["Design System Setup"] },
+        { "id": 2, "title": "Typing Skills (Mavis)", "topics": ["Design Text Input"] },
+        { "id": 3, "title": "Corel Draw (Graphics)", "topics": ["Vector Design", "Logo Creation", "Layout Design"] },
+        { "id": 4, "title": "MS Power Point", "topics": ["Design Presentations"] },
+        { "id": 5, "title": "Modern Office Equipment", "topics": ["Design Equipment Operation"] },
+        { "id": 6, "title": "Internet and E-mail Utilization", "topics": ["Design Communication"] },
+        { "id": 7, "title": "Photoshop", "topics": ["Image Editing", "Photo Manipulation"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "adp2-021",
+      "title": "Advance Diploma in Desktop Publishing",
+      "code": "ADP",
+      "category": "diploma",
+      "duration": "4 Months",
+      "price": 30000,
+      "shortDescription": "Advanced desktop publishing with video and audio editing",
+      "description": "Advanced desktop publishing course including video editing, audio production, and professional project work.",
+      "outline": [
+        { "id": 1, "title": "MS Windows", "topics": ["Advanced Design System"] },
+        { "id": 2, "title": "Typing Skills (Mavis)", "topics": ["Professional Typing"] },
+        { "id": 3, "title": "Corel Draw (Graphics)", "topics": ["Advanced Vector Design"] },
+        { "id": 4, "title": "MS Power Point", "topics": ["Advanced Presentations"] },
+        { "id": 5, "title": "MS Publisher", "topics": ["Professional Publishing"] },
+        { "id": 6, "title": "Modern Office Equipment", "topics": ["Professional Equipment"] },
+        { "id": 7, "title": "Project Work", "topics": ["Professional Design Project"] },
+        { "id": 8, "title": "Internet and E-mail Utilization", "topics": ["Professional Communication"] },
+        { "id": 9, "title": "Photoshop", "topics": ["Professional Image Editing"] },
+        { "id": 10, "title": "Adobe Premier Pro (Video Editing)", "topics": ["Professional Video Production"] },
+        { "id": 11, "title": "Audio Recording and Editing", "topics": ["Professional Audio Production"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000, "studioPractical": 3000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dhe-022",
+      "title": "Diploma in Hardware Computer Engineering and Maintenance",
+      "code": "DHE",
+      "category": "diploma",
+      "duration": "9 Months",
+      "price": 100000,
+      "shortDescription": "Complete hardware engineering and computer maintenance training",
+      "description": "Comprehensive hardware engineering course covering computer assembly, troubleshooting, configuration, and basic networking.",
+      "outline": [
+        { "id": 1, "title": "Review of MS DOS", "topics": ["Advanced Command Line"] },
+        { "id": 2, "title": "Basic Electronics", "topics": ["Electronic Components", "Circuit Theory"] },
+        { "id": 3, "title": "Computer Assembly", "topics": ["PC Building", "Component Installation"] },
+        { "id": 4, "title": "Software Maintenance", "topics": ["OS Installation", "Driver Management"] },
+        { "id": 5, "title": "Troubleshooting", "topics": ["Hardware Diagnostics", "Problem Solving"] },
+        { "id": 6, "title": "Computer Configuration", "topics": ["BIOS Settings", "System Optimization"] },
+        { "id": 7, "title": "Computer Architecture", "topics": ["System Design", "Component Functions"] },
+        { "id": 8, "title": "Software Installation", "topics": ["Application Deployment"] },
+        { "id": 9, "title": "Hardware Installation", "topics": ["Peripheral Setup", "Device Configuration"] },
+        { "id": 10, "title": "Introduction to Networking", "topics": ["Network Basics", "Cabling"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "weekend", "time": "9:00 AM - 4:00 PM", "days": ["Sat"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000, "workshopPractical": 25000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dhe2-023",
+      "title": "Diploma in Computer Engineering and Networking",
+      "code": "DHE",
+      "category": "diploma",
+      "duration": "8 Months",
+      "price": 95000,
+      "shortDescription": "Computer engineering with advanced networking skills",
+      "description": "Advanced computer engineering course with networking specialization, covering configuration, troubleshooting, and network management.",
+      "outline": [
+        { "id": 1, "title": "Review of MS DOS", "topics": ["Network Command Line"] },
+        { "id": 2, "title": "Basic Electronics", "topics": ["Network Electronics"] },
+        { "id": 3, "title": "Computer Assembly", "topics": ["Network Computer Building"] },
+        { "id": 4, "title": "Software Maintenance", "topics": ["Network Software"] },
+        { "id": 5, "title": "Troubleshooting", "topics": ["Network Troubleshooting"] },
+        { "id": 6, "title": "Computer Configuration", "topics": ["Network Configuration"] },
+        { "id": 7, "title": "Computer Architecture", "topics": ["Network Architecture"] },
+        { "id": 8, "title": "Software Installation", "topics": ["Network Software Installation"] },
+        { "id": 9, "title": "Hardware Installation", "topics": ["Network Hardware Installation"] },
+        { "id": 10, "title": "Introduction to Networking", "topics": ["Advanced Networking"] },
+        { "id": 11, "title": "Network Troubleshooting", "topics": ["Network Problem Solving"] },
+        { "id": 12, "title": "Network Configuration", "topics": ["Router Configuration", "Switch Setup"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000, "workshopPractical": 25000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "net-024",
+      "title": "Diploma in Computer Networking",
+      "code": "NET",
+      "category": "diploma",
+      "duration": "3 Months",
+      "price": 45000,
+      "shortDescription": "Specialized networking course focusing on cabling and configuration",
+      "description": "Focused networking course covering network systems, cabling, troubleshooting, and configuration for IT professionals.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Networking", "topics": ["Network Fundamentals", "Protocols"] },
+        { "id": 2, "title": "Networking System and Cabling", "topics": ["Cable Types", "Installation", "Testing"] },
+        { "id": 3, "title": "Network Troubleshooting", "topics": ["Diagnostics", "Problem Resolution"] },
+        { "id": 4, "title": "Network Configuration", "topics": ["Router Setup", "Switch Configuration", "Security"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dap-025",
+      "title": "Diploma in Android Application Development (Java Programming)",
+      "code": "DAP",
+      "category": "diploma",
+      "duration": "3 Months",
+      "price": 70000,
+      "shortDescription": "Android app development using Java programming",
+      "description": "Comprehensive Android app development course focusing on Java programming, user interface design, and app deployment.",
+      "outline": [
+        { "id": 1, "title": "Android Basic", "topics": ["Android Architecture", "Development Environment"] },
+        { "id": 2, "title": "User Interface", "topics": ["UI Design", "Layouts", "Views"] },
+        { "id": 3, "title": "Multi-Screen Apps", "topics": ["Activities", "Fragments", "Navigation"] },
+        { "id": 4, "title": "Data Storage", "topics": ["SQLite", "SharedPreferences", "Files"] },
+        { "id": 5, "title": "Android Development", "topics": ["App Lifecycle", "Services", "Broadcasts"] },
+        { "id": 6, "title": "Java Fundamentals", "topics": ["OOP Concepts", "Syntax", "Libraries"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dap2-026",
+      "title": "Diploma in Mobile App Development",
+      "code": "DAP",
+      "category": "diploma",
+      "duration": "3 Months",
+      "price": 65000,
+      "shortDescription": "Cross-platform mobile app development using React Native",
+      "description": "Cross-platform mobile app development course covering React Native, deployment to app stores, and app monetization.",
+      "outline": [
+        { "id": 1, "title": "Android Basic", "topics": ["Mobile Development Basics"] },
+        { "id": 2, "title": "Introduction to PhoneGap (Cordova)", "topics": ["Hybrid App Development"] },
+        { "id": 3, "title": "Introduction to Android Studio", "topics": ["Development Environment"] },
+        { "id": 4, "title": "React.js", "topics": ["JavaScript Framework"] },
+        { "id": 5, "title": "React-Native", "topics": ["Cross-Platform Development"] },
+        { "id": 6, "title": "Deployment (PlayStore & AppStore)", "topics": ["App Store Guidelines", "Submission Process"] },
+        { "id": 7, "title": "Monetization of Mobile Apps", "topics": ["In-App Purchases", "Ads", "Subscriptions"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dwf-027",
+      "title": "Diploma in Web Design (Frontend)",
+      "code": "DWF",
+      "category": "diploma",
+      "duration": "2 Months",
+      "price": 35000,
+      "shortDescription": "Frontend web design with HTML, CSS, JavaScript, and jQuery",
+      "description": "Comprehensive frontend web design course covering modern web technologies, responsive design, and website hosting.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Web Operations", "topics": ["Web Basics", "Client-Server Model"] },
+        { "id": 2, "title": "HTML5", "topics": ["Semantic HTML", "Forms", "Media"] },
+        { "id": 3, "title": "System Analysis and Design", "topics": ["Web Project Planning"] },
+        { "id": 4, "title": "CSS", "topics": ["Styling", "Layout", "Responsive Design"] },
+        { "id": 5, "title": "Bootstrap", "topics": ["CSS Framework", "Components", "Grid System"] },
+        { "id": 6, "title": "JavaScript", "topics": ["Programming Basics", "DOM Manipulation"] },
+        { "id": 7, "title": "jQuery", "topics": ["JavaScript Library", "Effects", "AJAX"] },
+        { "id": 8, "title": "Hosting a Website", "topics": ["Web Hosting", "Domain Names", "FTP"] },
+        { "id": 9, "title": "Project Management", "topics": ["Web Project Management"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dwb-028",
+      "title": "Diploma in Web Design (Backend)",
+      "code": "DWB",
+      "category": "diploma",
+      "duration": "3 Months",
+      "price": 45000,
+      "shortDescription": "Backend web development with PHP, Node.js, and databases",
+      "description": "Comprehensive backend web development course covering server-side programming, databases, and server maintenance.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Web Operations", "topics": ["Server Basics", "Web Architecture"] },
+        { "id": 2, "title": "Project Management", "topics": ["Backend Project Planning"] },
+        { "id": 3, "title": "Introduction to C-Panel", "topics": ["Web Hosting Control Panel"] },
+        { "id": 4, "title": "Hosting", "topics": ["Server Configuration", "Deployment"] },
+        { "id": 5, "title": "PHP", "topics": ["Server-Side Programming", "Forms Processing"] },
+        { "id": 6, "title": "MySQL (Database)", "topics": ["Database Design", "SQL Queries"] },
+        { "id": 7, "title": "Node.js", "topics": ["JavaScript Runtime", "Server Development"] },
+        { "id": 8, "title": "No-SQL (Firebase or MongoDB)", "topics": ["Document Databases", "Cloud Databases"] },
+        { "id": 9, "title": "Server Maintenance & Validation", "topics": ["Server Security", "Performance Optimization"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dfs-029",
+      "title": "Diploma in Full Stack Web Development",
+      "code": "DFS",
+      "category": "diploma",
+      "duration": "4 Months",
+      "price": 75000,
+      "shortDescription": "Complete full stack web development course",
+      "description": "Comprehensive full stack web development covering both frontend and backend technologies for complete web application development.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Web Operations", "topics": ["Full Stack Concepts"] },
+        { "id": 2, "title": "HTML5/CSS", "topics": ["Frontend Development"] },
+        { "id": 3, "title": "Project Management", "topics": ["Full Stack Project Planning"] },
+        { "id": 4, "title": "Bootstrap", "topics": ["Frontend Framework"] },
+        { "id": 5, "title": "JavaScript", "topics": ["Client-Side Programming"] },
+        { "id": 6, "title": "Hosting/Deployment", "topics": ["Application Deployment"] },
+        { "id": 7, "title": "Node.js", "topics": ["Backend Development"] },
+        { "id": 8, "title": "PHP", "topics": ["Server-Side Programming"] },
+        { "id": 9, "title": "MySQL/No-SQL (Database)", "topics": ["Database Management"] },
+        { "id": 10, "title": "Server Maintenance", "topics": ["Server Management"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dwb2-030",
+      "title": "Advance Diploma in UI/UX Design",
+      "code": "DWB",
+      "category": "diploma",
+      "duration": "3 Months",
+      "price": 55000,
+      "shortDescription": "Professional UI/UX design with modern design tools",
+      "description": "Comprehensive UI/UX design course covering user research, wireframing, prototyping, and design implementation.",
+      "outline": [
+        { "id": 1, "title": "UI Fundamentals", "topics": ["Design Principles", "Color Theory"] },
+        { "id": 2, "title": "Software Development Life Cycle", "topics": ["Design Process"] },
+        { "id": 3, "title": "Flowchart", "topics": ["Process Visualization"] },
+        { "id": 4, "title": "Sketch/Adobe XD/Figma", "topics": ["Design Tools"] },
+        { "id": 5, "title": "Visual Designs & Clickable Prototypes", "topics": ["Interactive Prototyping"] },
+        { "id": 6, "title": "System Analysis and Design", "topics": ["Design Analysis"] },
+        { "id": 7, "title": "UI Design Patterns", "topics": ["Design Standards"] },
+        { "id": 8, "title": "UX Design Concepts", "topics": ["User Experience Principles"] },
+        { "id": 9, "title": "Synthesis of User Research", "topics": ["Research Analysis"] },
+        { "id": 10, "title": "Wireframing, Sketching, Prototyping", "topics": ["Design Creation"] },
+        { "id": 11, "title": "User Testing", "topics": ["Design Validation"] },
+        { "id": 12, "title": "Visual Design Concept", "topics": ["Color, Typography, Layout"] },
+        { "id": 13, "title": "Responsiveness", "topics": ["Responsive Design"] },
+        { "id": 14, "title": "System Navigation", "topics": ["Navigation Design"] },
+        { "id": 15, "title": "Design Elements", "topics": ["Proximity, Similarity, Continuity"] },
+        { "id": 16, "title": "Functionality", "topics": ["Functional Design"] },
+        { "id": 17, "title": "System Organization and Structure", "topics": ["Information Architecture"] },
+        { "id": 18, "title": "Interactions and Look and Feel", "topics": ["Interactive Design"] },
+        { "id": 19, "title": "Error Prevention", "topics": ["Error Handling Design"] },
+        { "id": 20, "title": "System Life Cycle", "topics": ["Design Lifecycle"] },
+        { "id": 21, "title": "System Implementation", "topics": ["Design Implementation"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dwb3-031",
+      "title": "Diploma in Data Science and Analysis",
+      "code": "DWB",
+      "category": "diploma",
+      "duration": "3 Months",
+      "price": 85000,
+      "shortDescription": "Data science with Python programming and analysis",
+      "description": "Comprehensive data science course covering Python programming, data analysis, visualization, and predictive modeling.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Internet Utilization", "topics": ["Data Sources", "Online Resources"] },
+        { "id": 2, "title": "MS-Excel (Spreadsheet)", "topics": ["Data Analysis", "Formulas"] },
+        { "id": 3, "title": "MS-Access (Database)", "topics": ["Database Management", "Queries"] },
+        { "id": 4, "title": "Python Programming", "topics": ["Python Basics", "Libraries"] },
+        { "id": 5, "title": "Predictive/Forecasting (NumPy & Pandas)", "topics": ["Data Analysis", "Forecasting"] },
+        { "id": 6, "title": "Data Visualization (Matplotlib)", "topics": ["Charts", "Graphs", "Dashboards"] },
+        { "id": 7, "title": "Data Presentation (Tkinter GUI)", "topics": ["GUI Development", "Data Presentation"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "ddm-032",
+      "title": "Diploma in Digital Marketing",
+      "code": "DDM",
+      "category": "diploma",
+      "duration": "2 Months",
+      "price": 45000,
+      "shortDescription": "Digital marketing strategies and social media marketing",
+      "description": "Comprehensive digital marketing course covering social media marketing, affiliate marketing, blogging, and WordPress.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Internet Utilization", "topics": ["Digital Tools", "Online Platforms"] },
+        { "id": 2, "title": "Introduction to Blogging", "topics": ["Content Creation", "Blog Management"] },
+        { "id": 3, "title": "Introduction to WordPress", "topics": ["Website Creation", "CMS"] },
+        { "id": 4, "title": "Power Point (Presentation)", "topics": ["Marketing Presentations"] },
+        { "id": 5, "title": "Social Media Marketing", "topics": ["Platform Strategies", "Content Marketing"] },
+        { "id": 6, "title": "Affiliate Marketing", "topics": ["Commission Marketing", "Partner Programs"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "weekend", "time": "9:00 AM - 4:00 PM", "days": ["Sat"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "ddp2-033",
+      "title": "Diploma in Web Development (WordPress)",
+      "code": "DDP",
+      "category": "diploma",
+      "duration": "1 Month",
+      "price": 35000,
+      "shortDescription": "WordPress website development and management",
+      "description": "Focused WordPress development course covering website creation, hosting, deployment, and management.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Internet Utilization", "topics": ["Web Basics"] },
+        { "id": 2, "title": "Introduction to C-Panel", "topics": ["Hosting Control Panel"] },
+        { "id": 3, "title": "WordPress Web Development", "topics": ["Theme Development", "Plugin Usage", "Customization"] },
+        { "id": 4, "title": "Hosting/Deployment", "topics": ["Website Deployment"] },
+        { "id": 5, "title": "System Management/Maintenance", "topics": ["Website Maintenance"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dom-034",
+      "title": "Diploma in Computer Operation and Application to Business Transaction and Engineering Maintenance",
+      "code": "DOM",
+      "category": "diploma",
+      "duration": "10 Months",
+      "price": 138000,
+      "shortDescription": "Comprehensive computer and engineering maintenance course",
+      "description": "Complete diploma covering computer applications, business transactions, and engineering maintenance for comprehensive IT skills.",
+      "outline": [
+        { "id": 1, "title": "Computer Appreciation", "topics": ["Comprehensive Computer Basics"] },
+        { "id": 2, "title": "Computer System Management", "topics": ["Advanced System Management"] },
+        { "id": 3, "title": "Micro Computer (MS DOS)", "topics": ["Command Line Mastery"] },
+        { "id": 4, "title": "MS Windows (GUI)", "topics": ["Windows Administration"] },
+        { "id": 5, "title": "Word Processing (MS Word)", "topics": ["Advanced Documentation"] },
+        { "id": 6, "title": "Spreadsheet (MS Excel)", "topics": ["Advanced Analysis"] },
+        { "id": 7, "title": "Database (MS Access)", "topics": ["Advanced Database"] },
+        { "id": 8, "title": "Presentation (MS Power Point)", "topics": ["Advanced Presentations"] },
+        { "id": 9, "title": "MS Publisher", "topics": ["Advanced Publishing"] },
+        { "id": 10, "title": "Internet and E-mail Utilization", "topics": ["Advanced Communication"] },
+        { "id": 11, "title": "Introduction to Web Applications and Design", "topics": ["Web Development"] },
+        { "id": 12, "title": "Computer Applications to Business Transactions", "topics": ["Business Solutions"] },
+        { "id": 13, "title": "Basic Electronics", "topics": ["Electronic Fundamentals"] },
+        { "id": 14, "title": "Computer Assembly", "topics": ["Hardware Assembly"] },
+        { "id": 15, "title": "Software Maintenance", "topics": ["Software Management"] },
+        { "id": 16, "title": "Troubleshooting", "topics": ["Problem Solving"] },
+        { "id": 17, "title": "Computer Configuration", "topics": ["System Configuration"] },
+        { "id": 18, "title": "Computer Architecture", "topics": ["System Architecture"] },
+        { "id": 19, "title": "Software Installation", "topics": ["Application Deployment"] },
+        { "id": 20, "title": "Hardware Installation", "topics": ["Device Installation"] },
+        { "id": 21, "title": "Audio Recording and Editing", "topics": ["Audio Production"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000, "workshopPractical": 25000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dce-035",
+      "title": "Diploma in Computer Application for Engineers",
+      "code": "DCE",
+      "category": "diploma",
+      "duration": "3 Months",
+      "price": 65000,
+      "shortDescription": "Computer applications specifically for engineering professionals",
+      "description": "Specialized computer training for engineers covering technical software, hardware installation, and engineering applications.",
+      "outline": [
+        { "id": 1, "title": "MS Windows", "topics": ["Engineering System Setup"] },
+        { "id": 2, "title": "MS DOS", "topics": ["Command Line for Engineering"] },
+        { "id": 3, "title": "System Management & Applications", "topics": ["Engineering Software Management"] },
+        { "id": 4, "title": "MS Word", "topics": ["Engineering Documentation"] },
+        { "id": 5, "title": "MS Excel", "topics": ["Engineering Calculations"] },
+        { "id": 6, "title": "MS Access", "topics": ["Engineering Database"] },
+        { "id": 7, "title": "Internet Utilization", "topics": ["Engineering Resources"] },
+        { "id": 8, "title": "Corel Draw", "topics": ["Engineering Graphics"] },
+        { "id": 9, "title": "Hardware and Software Installation", "topics": ["Engineering System Setup"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000, "workshopPractical": 25000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dac-036",
+      "title": "Diploma in Computer Application for Architect",
+      "code": "DAC",
+      "category": "diploma",
+      "duration": "6 Months",
+      "price": 75000,
+      "shortDescription": "Computer applications for architectural professionals",
+      "description": "Specialized computer training for architects covering AutoCAD, design software, and architectural applications.",
+      "outline": [
+        { "id": 1, "title": "MS Windows", "topics": ["Architectural System Setup"] },
+        { "id": 2, "title": "MS DOS", "topics": ["Command Line Basics"] },
+        { "id": 3, "title": "Computer Application", "topics": ["Architectural Software"] },
+        { "id": 4, "title": "Computer System Management", "topics": ["System Management"] },
+        { "id": 5, "title": "MS Word", "topics": ["Architectural Documentation"] },
+        { "id": 6, "title": "MS Excel", "topics": ["Architectural Calculations"] },
+        { "id": 7, "title": "MS Access", "topics": ["Project Database"] },
+        { "id": 8, "title": "Internet Utilization", "topics": ["Architectural Resources"] },
+        { "id": 9, "title": "MS Power Point", "topics": ["Project Presentations"] },
+        { "id": 10, "title": "Adobe XD", "topics": ["UI/UX Design"] },
+        { "id": 11, "title": "AutoCAD", "topics": ["Architectural Design", "2D/3D Drawing"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dav2-037",
+      "title": "Diploma in Audio and Video Recording and Editing",
+      "code": "DAV",
+      "category": "diploma",
+      "duration": "3 Months",
+      "price": 75000,
+      "shortDescription": "Professional audio-video production and editing",
+      "description": "Comprehensive audio-video production course covering recording, editing, and production using professional software.",
+      "outline": [
+        { "id": 1, "title": "MS Windows", "topics": ["Media System Setup"] },
+        { "id": 2, "title": "Easy Worship", "topics": ["Presentation Software"] },
+        { "id": 3, "title": "MS Sound Recorder", "topics": ["Audio Recording"] },
+        { "id": 4, "title": "Corel Video Studio", "topics": ["Video Editing"] },
+        { "id": 5, "title": "Internet Utilization", "topics": ["Media Resources"] },
+        { "id": 6, "title": "Movie Maker", "topics": ["Basic Video Editing"] },
+        { "id": 7, "title": "Adobe Audition", "topics": ["Professional Audio Editing"] },
+        { "id": 8, "title": "Adobe Premier Pro", "topics": ["Professional Video Editing"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000, "studioPractical": 3000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "dgd-038",
+      "title": "Diploma in Graphic Design",
+      "code": "DGD",
+      "category": "diploma",
+      "duration": "2 Months",
+      "price": 40000,
+      "shortDescription": "Professional graphic design with industry-standard tools",
+      "description": "Comprehensive graphic design course covering Corel Draw, Photoshop, Illustrator, and professional design principles.",
+      "outline": [
+        { "id": 1, "title": "Power Point", "topics": ["Design Presentations"] },
+        { "id": 2, "title": "Publisher", "topics": ["Desktop Publishing"] },
+        { "id": 3, "title": "Corel Draw", "topics": ["Vector Graphics", "Logo Design"] },
+        { "id": 4, "title": "Photoshop", "topics": ["Photo Editing", "Digital Imaging"] },
+        { "id": 5, "title": "Adobe Illustrator", "topics": ["Vector Illustration", "Artwork Creation"] },
+        { "id": 6, "title": "Internet Utilization", "topics": ["Design Resources", "Online Portfolio"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "awd-039",
+      "title": "Advanced Web Design",
+      "code": "AWD",
+      "category": "diploma",
+      "duration": "2 Months",
+      "price": 50000,
+      "shortDescription": "Advanced web design with React and modern JavaScript",
+      "description": "Advanced web design course covering modern JavaScript, React library, and advanced web development techniques.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Web Operations", "topics": ["Advanced Web Concepts"] },
+        { "id": 2, "title": "UI Design Analysis", "topics": ["Design Analysis"] },
+        { "id": 3, "title": "HTML5 Semantic Tags (Advanced HTML/CSS)", "topics": ["Advanced Markup"] },
+        { "id": 4, "title": "JS (OOP, Async, Class, Model)", "topics": ["Advanced JavaScript"] },
+        { "id": 5, "title": "React Library", "topics": ["React Fundamentals"] },
+        { "id": 6, "title": "Redux", "topics": ["State Management"] },
+        { "id": 7, "title": "Context API", "topics": ["React Context"] },
+        { "id": 8, "title": "Building React App", "topics": ["Application Development"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+
+    
+    {
+      "id": "cwp-sp-040",
+      "title": "Certificate in Word Processing (Special Package)",
+      "code": "CWP",
+      "category": "special-package",
+      "duration": "2 Weeks",
+      "price": 12000,
+      "shortDescription": "Focused word processing training",
+      "description": "Intensive word processing course focusing on MS Word and typing skills for quick skill acquisition.",
+      "outline": [
+        { "id": 1, "title": "MS Word", "topics": ["Document Creation", "Formatting", "Templates"] },
+        { "id": 2, "title": "Typing Skills", "topics": ["Speed Training", "Accuracy", "Practice"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "ces-041",
+      "title": "Certificate in MS Excel (Spreadsheet) - Special Package",
+      "code": "CES",
+      "category": "special-package",
+      "duration": "3 Weeks",
+      "price": 35000,
+      "shortDescription": "Intensive Excel spreadsheet training",
+      "description": "Comprehensive Excel training covering advanced formulas, data analysis, and business applications.",
+      "outline": [
+        { "id": 1, "title": "Typing Skills", "topics": ["Data Entry", "Speed"] },
+        { "id": 2, "title": "MS Excel", "topics": ["Advanced Formulas", "Pivot Tables", "Charts", "Data Analysis"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cad-042",
+      "title": "Certificate in MS Access (Database) - Special Package",
+      "code": "CAD",
+      "category": "special-package",
+      "duration": "2 Weeks",
+      "price": 25000,
+      "shortDescription": "Intensive database management training",
+      "description": "Comprehensive database training covering MS Access and MySQL for data management and administration.",
+      "outline": [
+        { "id": 1, "title": "Typing & Text Formatting Skills", "topics": ["Data Entry"] },
+        { "id": 2, "title": "MS Access", "topics": ["Database Design", "Queries", "Forms", "Reports"] },
+        { "id": 3, "title": "MySQL", "topics": ["Database Management", "SQL Queries"] },
+        { "id": 4, "title": "phpMyAdmin", "topics": ["Database Administration"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cpp-043",
+      "title": "Certificate in MS PowerPoint (Presentation) - Special Package",
+      "code": "CPP",
+      "category": "special-package",
+      "duration": "2 Weeks",
+      "price": 15000,
+      "shortDescription": "Professional presentation skills training",
+      "description": "Comprehensive presentation training covering PowerPoint and Easy Worship for professional presentations.",
+      "outline": [
+        { "id": 1, "title": "Typing Skill", "topics": ["Content Creation"] },
+        { "id": 2, "title": "MS PowerPoint", "topics": ["Slide Design", "Animations", "Transitions"] },
+        { "id": 3, "title": "Easy Worship", "topics": ["Presentation Software"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "ccd-044",
+      "title": "Certificate in Corel Draw - Special Package",
+      "code": "CCD",
+      "category": "special-package",
+      "duration": "4 Weeks",
+      "price": 25000,
+      "shortDescription": "Professional Corel Draw graphic design",
+      "description": "Comprehensive Corel Draw training for graphic design, illustration, and print preparation.",
+      "outline": [
+        { "id": 1, "title": "Internet Utilization", "topics": ["Design Resources"] },
+        { "id": 2, "title": "Corel Draw", "topics": ["Vector Graphics", "Logo Design", "Layout", "Print Prep"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cph-045",
+      "title": "Certificate in Photoshop - Special Package",
+      "code": "CPH",
+      "category": "special-package",
+      "duration": "4 Weeks",
+      "price": 35000,
+      "shortDescription": "Professional Photoshop and photo editing",
+      "description": "Comprehensive Photoshop training for photo editing, digital imaging, and design work.",
+      "outline": [
+        { "id": 1, "title": "Internet Utilization", "topics": ["Image Resources"] },
+        { "id": 2, "title": "Photoshop", "topics": ["Photo Editing", "Retouching", "Compositing"] },
+        { "id": 3, "title": "Design and Photo Editing", "topics": ["Creative Design"] },
+        { "id": 4, "title": "Introduction to Photoshop Animation", "topics": ["Basic Animation"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cpp2-046",
+      "title": "Certificate in Python Programming - Special Package",
+      "code": "CPP",
+      "category": "special-package",
+      "duration": "2 Months",
+      "price": 45000,
+      "shortDescription": "Python programming for beginners",
+      "description": "Comprehensive Python programming course covering fundamentals, modules, and GUI development.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Programming", "topics": ["Programming Concepts"] },
+        { "id": 2, "title": "Python", "topics": ["Syntax", "Data Structures", "Functions"] },
+        { "id": 3, "title": "Python Modules", "topics": ["Libraries", "Packages"] },
+        { "id": 4, "title": "Python GUI & CLI", "topics": ["Interface Development"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cft-047",
+      "title": "Certificate in Forex Trading - Special Package",
+      "code": "CFT",
+      "category": "special-package",
+      "duration": "4 Weeks",
+      "price": 85000,
+      "shortDescription": "Forex trading strategies and analysis",
+      "description": "Comprehensive forex trading course covering technical analysis, trading strategies, and market movement.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Internet Tools", "topics": ["Trading Platforms"] },
+        { "id": 2, "title": "Introduction to MetaTrader 4 & 5", "topics": ["Trading Software"] },
+        { "id": 3, "title": "Introduction to Candle Sticks", "topics": ["Chart Analysis"] },
+        { "id": 4, "title": "Trading Strategies", "topics": ["Trading Methods"] },
+        { "id": 5, "title": "Pivot Point and Moving Averages", "topics": ["Technical Indicators"] },
+        { "id": 6, "title": "Market Movement", "topics": ["Market Analysis"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
+        { "type": "weekend", "time": "9:00 AM - 4:00 PM", "days": ["Sat"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cpa-048",
+      "title": "Certificate in Robotics and Artificial Intelligence (Software) - Special Package",
+      "code": "CPA",
+      "category": "special-package",
+      "duration": "9 Months",
+      "price": 125000,
+      "shortDescription": "Robotics and AI software development",
+      "description": "Comprehensive robotics and AI course covering machine learning, computer vision, embedded systems, and project development.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Internet Tools", "topics": ["AI Resources"] },
+        { "id": 2, "title": "Introduction to Simulations", "topics": ["Simulation Software"] },
+        { "id": 3, "title": "Modeling", "topics": ["AI Modeling"] },
+        { "id": 4, "title": "Machine Learning", "topics": ["ML Algorithms"] },
+        { "id": 5, "title": "Introduction to IoT", "topics": ["Internet of Things"] },
+        { "id": 6, "title": "Basic and Advance Control System", "topics": ["Control Systems"] },
+        { "id": 7, "title": "Introduction to Embedded System", "topics": ["Embedded Programming"] },
+        { "id": 8, "title": "Introduction to Raspberry Pi", "topics": ["Single Board Computer"] },
+        { "id": 9, "title": "Introduction to Arduino", "topics": ["Microcontroller"] },
+        { "id": 10, "title": "Python Programming", "topics": ["AI Programming"] },
+        { "id": 11, "title": "Prototyping", "topics": ["Hardware Prototyping"] },
+        { "id": 12, "title": "Simulation", "topics": ["System Simulation"] },
+        { "id": 13, "title": "Computer Vision", "topics": ["Image Processing"] },
+        { "id": 14, "title": "C++ Programming", "topics": ["System Programming"] },
+        { "id": 15, "title": "Decision Tree", "topics": ["AI Algorithms"] },
+        { "id": 16, "title": "Neural Network", "topics": ["Deep Learning"] },
+        { "id": 17, "title": "Project Management", "topics": ["AI Project Management"] },
+        { "id": 18, "title": "Project Development", "topics": ["AI Project Development"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000, "workshopPractical": 25000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cpp3-049",
+      "title": "Certificate in Java Programming - Special Package",
+      "code": "CPP",
+      "category": "special-package",
+      "duration": "2 Months",
+      "price": 65000,
+      "shortDescription": "Java programming for software development",
+      "description": "Comprehensive Java programming course covering fundamentals, object-oriented programming, and web development.",
+      "outline": [
+        { "id": 1, "title": "Introduction to Programming", "topics": ["Programming Basics"] },
+        { "id": 2, "title": "Installation (NetBeans, IntelliJ, Android Studio)", "topics": ["Development Environment"] },
+        { "id": 3, "title": "Java (Procedural & OOP)", "topics": ["Java Syntax", "OOP Concepts"] },
+        { "id": 4, "title": "Java Packages", "topics": ["Libraries", "Packages"] },
+        { "id": 5, "title": "Web Development Using Java", "topics": ["Java Web Development"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    },
+    {
+      "id": "cyb-050",
+      "title": "Diploma in Cyber Security (Full Course Modules) - Special Package",
+      "code": "CYB",
+      "category": "special-package",
+      "duration": "9 Months",
+      "price": 135000,
+      "shortDescription": "Comprehensive cyber security certification",
+      "description": "Complete cyber security course covering network security, ethical hacking, cryptography, and security operations.",
+      "outline": [
+        { "id": 1, "title": "Overview of Cyber Security", "topics": ["Security Fundamentals"] },
+        { "id": 2, "title": "Basic Concepts and Terminology", "topics": ["Security Terminology"] },
+        { "id": 3, "title": "Types of Cyber Attacks", "topics": ["Attack Vectors"] },
+        { "id": 4, "title": "Cyber Security Frameworks and Standards", "topics": ["Security Standards"] },
+        { "id": 5, "title": "Network Basics and Protocols", "topics": ["Network Security"] },
+        { "id": 6, "title": "Wireless Network Security", "topics": ["WiFi Security"] },
+        { "id": 7, "title": "Operating Systems Security", "topics": ["OS Security"] },
+        { "id": 8, "title": "Secure Software Development Life Cycle", "topics": ["Secure SDLC"] },
+        { "id": 9, "title": "Web Application Security", "topics": ["Web Security"] },
+        { "id": 10, "title": "Mobile Application Security", "topics": ["Mobile Security"] },
+        { "id": 11, "title": "Secure Coding Practices", "topics": ["Secure Coding"] },
+        { "id": 12, "title": "Application Testing and Vulnerability Assessment", "topics": ["Security Testing"] },
+        { "id": 13, "title": "Basic Cryptographic Concepts", "topics": ["Cryptography Basics"] },
+        { "id": 14, "title": "Symmetric and Asymmetric Encryption", "topics": ["Encryption Methods"] },
+        { "id": 15, "title": "Hash Functions", "topics": ["Hashing Algorithms"] },
+        { "id": 16, "title": "Digital Signatures and Certificates", "topics": ["Digital Certificates"] },
+        { "id": 17, "title": "Public Key Infrastructure", "topics": ["PKI Systems"] },
+        { "id": 18, "title": "Cyber Threats and Attack Vectors", "topics": ["Threat Analysis"] },
+        { "id": 19, "title": "Identity and Access Management", "topics": ["IAM Systems"] },
+        { "id": 20, "title": "Incident Response and Management", "topics": ["Incident Handling"] },
+        { "id": 21, "title": "Risk Management and Compliance", "topics": ["Risk Assessment"] },
+        { "id": 22, "title": "Security Operations and Monitoring", "topics": ["Security Monitoring"] },
+        { "id": 23, "title": "Ethical Hacking and Penetration Testing", "topics": ["Penetration Testing"] },
+        { "id": 24, "title": "Cloud Security", "topics": ["Cloud Security"] },
+        { "id": 25, "title": "Cloud Service Models", "topics": ["IaaS, PaaS, SaaS"] },
+        { "id": 26, "title": "IoT Security", "topics": ["IoT Security"] },
+        { "id": 27, "title": "Encryption and Data Masking", "topics": ["Data Protection"] },
+        { "id": 28, "title": "Emerging Technologies and Future Trends", "topics": ["Future Trends"] },
+        { "id": 29, "title": "Practical Labs and Hands-on Training", "topics": ["Practical Exercises"] },
+        { "id": 30, "title": "Capstone Project", "topics": ["Security Project"] },
+        { "id": 31, "title": "Practice Exams", "topics": ["Exam Preparation"] }
+      ],
+      "sessions": [
+        { "type": "regular", "time": "9:00 AM - 1:00 PM", "days": ["Mon", "Tue", "Wed", "Thu", "Fri"] }
+      ],
+      "additionalFees": { "registration": 2000, "studyKit": 5000 },
+      "forStudents": false, "forCorpers": false, "isActive": true
+    }
+  ]
+}

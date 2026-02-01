@@ -1,0 +1,747 @@
+{
+  "programs": [
+    {
+      "id": "cwp-001",
+      "title": "Certificate in Word Processing",
+      "code": "CWP",
+      "category": "certificate",
+      "duration": "2 Weeks",
+      "price": 14000,
+      "shortDescription": "Basic computer operation and MS Word skills for beginners",
+      "description": "This course provides fundamental computer skills with focus on word processing using Microsoft Word. Perfect for office assistants, students, and anyone needing basic computer literacy.",
+      "outline": [
+        {
+          "id": 1,
+          "title": "Computer Appreciation",
+          "topics": [
+            "Introduction to Computers",
+            "Computer Hardware Components",
+            "Software Types and Uses",
+            "Input/Output Devices"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Computer System Management",
+          "topics": [
+            "File Management Techniques",
+            "System Maintenance",
+            "Backup Procedures",
+            "Virus Protection"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Paint Program",
+          "topics": [
+            "Basic Graphic Tools",
+            "Image Editing",
+            "Drawing Techniques"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "MS Word",
+          "topics": [
+            "Document Creation",
+            "Formatting Text",
+            "Tables and Lists",
+            "Mail Merge",
+            "Document Templates"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Internet and E-mail Utilization",
+          "topics": [
+            "Web Browsing",
+            "Email Setup and Management",
+            "Online Communication",
+            "Internet Safety"
+          ]
+        }
+      ],
+      "sessions": [
+        {
+          "type": "regular",
+          "time": "9:00 AM - 1:00 PM",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        },
+        {
+          "type": "afternoon",
+          "time": "12:30 PM - 3:30 PM",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        },
+        {
+          "type": "evening",
+          "time": "4:00 PM - 6:00 PM",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        },
+        {
+          "type": "weekend",
+          "time": "9:00 AM - 4:00 PM",
+          "days": ["Friday", "Saturday"]
+        }
+      ],
+      "additionalFees": {
+        "registration": 2000,
+        "studyKit": 5000,
+        "studioPractical": null,
+        "workshopPractical": null,
+        "executivePremium": null
+      },
+      "forStudents": false,
+      "forCorpers": false,
+      "isActive": true,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "csp-002",
+      "title": "Certificate in Spreadsheet Application",
+      "code": "CSP",
+      "category": "certificate",
+      "duration": "2 Weeks",
+      "price": 14000,
+      "shortDescription": "Master Microsoft Excel for data analysis and business applications",
+      "description": "Comprehensive training in spreadsheet applications using Microsoft Excel. Learn formulas, functions, charts, and data analysis techniques.",
+      "outline": [
+        {
+          "id": 1,
+          "title": "Computer Appreciation",
+          "topics": [
+            "Computer Basics",
+            "System Operations",
+            "File Management"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Computer System Management",
+          "topics": [
+            "Windows Navigation",
+            "System Tools",
+            "Maintenance"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Paint Program",
+          "topics": [
+            "Basic Graphics",
+            "Image Manipulation"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Spreadsheet (MS Excel)",
+          "topics": [
+            "Worksheet Creation",
+            "Formulas and Functions",
+            "Charts and Graphs",
+            "Data Analysis",
+            "Pivot Tables"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Internet and E-mail Utilization",
+          "topics": [
+            "Online Research",
+            "Email Management",
+            "Cloud Storage"
+          ]
+        }
+      ],
+      "sessions": [
+        {
+          "type": "regular",
+          "time": "9:00 AM - 1:00 PM",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        },
+        {
+          "type": "weekend",
+          "time": "9:00 AM - 4:00 PM",
+          "days": ["Friday", "Saturday"]
+        }
+      ],
+      "additionalFees": {
+        "registration": 2000,
+        "studyKit": 5000,
+        "studioPractical": null,
+        "workshopPractical": null,
+        "executivePremium": null
+      },
+      "forStudents": false,
+      "forCorpers": false,
+      "isActive": true,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "cdm-003",
+      "title": "Certificate in Database Management System",
+      "code": "CDM",
+      "category": "certificate",
+      "duration": "2 Weeks",
+      "price": 14000,
+      "shortDescription": "Learn database creation and management using MS Access",
+      "description": "Introduction to database concepts and practical skills in Microsoft Access for data storage, retrieval, and management.",
+      "outline": [
+        {
+          "id": 1,
+          "title": "Computer Appreciation",
+          "topics": ["Computer Fundamentals", "System Components"]
+        },
+        {
+          "id": 2,
+          "title": "Computer System Management",
+          "topics": ["OS Navigation", "File Systems"]
+        },
+        {
+          "id": 3,
+          "title": "Paint Program",
+          "topics": ["Basic Design Tools"]
+        },
+        {
+          "id": 4,
+          "title": "Database (MS Access)",
+          "topics": [
+            "Table Creation",
+            "Queries Design",
+            "Forms Development",
+            "Reports Generation",
+            "Relationship Management"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Internet and E-mail Utilization",
+          "topics": ["Web Tools", "Email Systems"]
+        }
+      ],
+      "sessions": [
+        {
+          "type": "regular",
+          "time": "9:00 AM - 1:00 PM",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        },
+        {
+          "type": "evening",
+          "time": "4:00 PM - 6:00 PM",
+          "days": ["Monday", "Wednesday", "Friday"]
+        }
+      ],
+      "additionalFees": {
+        "registration": 2000,
+        "studyKit": 5000,
+        "studioPractical": null,
+        "workshopPractical": null,
+        "executivePremium": null
+      },
+      "forStudents": false,
+      "forCorpers": false,
+      "isActive": true,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "cco-004",
+      "title": "Certificate in Computer Operation for JSS Students",
+      "code": "CCO",
+      "category": "certificate",
+      "duration": "2 Months",
+      "price": 20000,
+      "shortDescription": "Special computer training program for Junior Secondary School students",
+      "description": "Comprehensive computer education designed specifically for JSS students, covering fundamental computer skills and applications.",
+      "outline": [
+        {
+          "id": 1,
+          "title": "Computer Appreciation",
+          "topics": [
+            "Introduction to Computers",
+            "Computer Parts and Functions",
+            "Safe Computer Use"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Computer System Management",
+          "topics": [
+            "Basic File Management",
+            "Software Installation",
+            "System Care"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Typing Skill (Mavis)",
+          "topics": [
+            "Keyboard Familiarization",
+            "Touch Typing",
+            "Speed Building"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Paint Program",
+          "topics": [
+            "Digital Drawing",
+            "Color Theory",
+            "Image Creation"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Word Processing (MS Word)",
+          "topics": [
+            "Document Creation",
+            "Basic Formatting",
+            "School Project Setup"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Spreadsheet (MS Excel)",
+          "topics": [
+            "Simple Calculations",
+            "Data Entry",
+            "Basic Charts"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Internet and E-mail",
+          "topics": [
+            "Safe Internet Browsing",
+            "Email Creation",
+            "Online Research"
+          ]
+        }
+      ],
+      "sessions": [
+        {
+          "type": "afternoon",
+          "time": "12:30 PM - 3:30 PM",
+          "days": ["Monday", "Wednesday", "Friday"]
+        },
+        {
+          "type": "weekend",
+          "time": "9:00 AM - 12:00 PM",
+          "days": ["Saturday"]
+        }
+      ],
+      "additionalFees": {
+        "registration": 2000,
+        "studyKit": 5000,
+        "studioPractical": null,
+        "workshopPractical": null,
+        "executivePremium": null
+      },
+      "forStudents": true,
+      "forCorpers": false,
+      "isActive": true,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "ctf-005",
+      "title": "Certificate in Computer Operation",
+      "code": "CTF",
+      "category": "certificate",
+      "duration": "2 Months",
+      "price": 28000,
+      "shortDescription": "Complete computer operation training for office and personal use",
+      "description": "Comprehensive computer operation course covering Windows, typing, MS Office, and internet skills for workplace readiness.",
+      "outline": [
+        {
+          "id": 1,
+          "title": "Computer Appreciation",
+          "topics": [
+            "Computer Fundamentals",
+            "Hardware Components",
+            "Software Types"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Computer System Management",
+          "topics": [
+            "Windows Navigation",
+            "File Organization",
+            "System Maintenance"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "MS Windows (GUI)",
+          "topics": [
+            "Desktop Management",
+            "Control Panel",
+            "User Accounts"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Typing Skills (Mavis)",
+          "topics": [
+            "Proper Typing Technique",
+            "Speed Development",
+            "Accuracy Training"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Word Processing (MS Word)",
+          "topics": [
+            "Advanced Formatting",
+            "Document Templates",
+            "Collaboration Tools"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Spreadsheet (MS Excel)",
+          "topics": [
+            "Formulas and Functions",
+            "Data Analysis",
+            "Business Applications"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Internet and E-mail Utilization",
+          "topics": [
+            "Advanced Browsing",
+            "Email Management",
+            "Online Security"
+          ]
+        }
+      ],
+      "sessions": [
+        {
+          "type": "regular",
+          "time": "9:00 AM - 1:00 PM",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        },
+        {
+          "type": "evening",
+          "time": "4:00 PM - 6:00 PM",
+          "days": ["Monday", "Wednesday", "Friday"]
+        }
+      ],
+      "additionalFees": {
+        "registration": 2000,
+        "studyKit": 5000,
+        "studioPractical": null,
+        "workshopPractical": null,
+        "executivePremium": null
+      },
+      "forStudents": false,
+      "forCorpers": false,
+      "isActive": true,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "cta-006",
+      "title": "Advanced Certificate in Computer Operation and Application to Business Transaction",
+      "code": "CTA",
+      "category": "certificate",
+      "duration": "4 Months",
+      "price": 34000,
+      "shortDescription": "Advanced computer applications for business and professional use",
+      "description": "Comprehensive training in computer applications tailored for business transactions, including web design basics.",
+      "outline": [
+        {
+          "id": 1,
+          "title": "Computer Appreciation",
+          "topics": ["Advanced Computer Concepts", "System Architecture"]
+        },
+        {
+          "id": 2,
+          "title": "Computer System Management",
+          "topics": ["Advanced System Administration", "Troubleshooting"]
+        },
+        {
+          "id": 3,
+          "title": "Micro Computer (MS DOS)",
+          "topics": ["Command Line Operations", "Batch Files", "System Commands"]
+        },
+        {
+          "id": 4,
+          "title": "MS Windows (GUI)",
+          "topics": ["Advanced Windows Features", "System Configuration"]
+        },
+        {
+          "id": 5,
+          "title": "Typing Skills (Mavis)",
+          "topics": ["Professional Typing", "Document Formatting"]
+        },
+        {
+          "id": 6,
+          "title": "Word Processing (MS Word)",
+          "topics": ["Business Documents", "Advanced Features", "Templates"]
+        },
+        {
+          "id": 7,
+          "title": "Spreadsheet (MS Excel)",
+          "topics": ["Business Analysis", "Advanced Formulas", "Macros"]
+        },
+        {
+          "id": 8,
+          "title": "Database (MS Access)",
+          "topics": ["Business Database Design", "Queries", "Reports"]
+        },
+        {
+          "id": 9,
+          "title": "Internet and E-mail Utilization",
+          "topics": ["Business Communication", "Online Collaboration"]
+        },
+        {
+          "id": 10,
+          "title": "Introduction to Web Application and Design",
+          "topics": ["Basic HTML", "Website Concepts", "Online Business Tools"]
+        }
+      ],
+      "sessions": [
+        {
+          "type": "regular",
+          "time": "9:00 AM - 1:00 PM",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        }
+      ],
+      "additionalFees": {
+        "registration": 2000,
+        "studyKit": 5000,
+        "studioPractical": null,
+        "workshopPractical": null,
+        "executivePremium": null
+      },
+      "forStudents": false,
+      "forCorpers": false,
+      "isActive": true,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "cte-007",
+      "title": "Certificate in Computer Operation and Application to Business Transaction (Special Package for Corpers)",
+      "code": "CTE",
+      "category": "certificate",
+      "duration": "3 Months",
+      "price": 36000,
+      "shortDescription": "Specialized computer training package for NYSC corps members",
+      "description": "Comprehensive computer application training designed specifically for NYSC corps members to enhance their workplace skills.",
+      "outline": [
+        {
+          "id": 1,
+          "title": "Computer Appreciation",
+          "topics": ["Computer Basics for Workplace", "System Operations"]
+        },
+        {
+          "id": 2,
+          "title": "Computer System Management",
+          "topics": ["Office System Management", "Network Basics"]
+        },
+        {
+          "id": 3,
+          "title": "Micro Computer (MS DOS)",
+          "topics": ["Command Line Basics", "File Management"]
+        },
+        {
+          "id": 4,
+          "title": "MS Windows (GUI)",
+          "topics": ["Windows for Office", "User Management"]
+        },
+        {
+          "id": 5,
+          "title": "Typing Skills (Mavis)",
+          "topics": ["Professional Typing Speed", "Accuracy"]
+        },
+        {
+          "id": 6,
+          "title": "Word Processing (MS Word)",
+          "topics": ["Office Documents", "Reports", "Correspondence"]
+        },
+        {
+          "id": 7,
+          "title": "Spreadsheet (MS Excel)",
+          "topics": ["Data Analysis", "Office Calculations", "Reporting"]
+        },
+        {
+          "id": 8,
+          "title": "Database (MS Access)",
+          "topics": ["Office Database Management", "Records Keeping"]
+        },
+        {
+          "id": 9,
+          "title": "Internet and E-mail Utilization",
+          "topics": ["Professional Email", "Online Research", "Communication"]
+        }
+      ],
+      "sessions": [
+        {
+          "type": "regular",
+          "time": "9:00 AM - 1:00 PM",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        },
+        {
+          "type": "weekend",
+          "time": "9:00 AM - 4:00 PM",
+          "days": ["Saturday"]
+        }
+      ],
+      "additionalFees": {
+        "registration": 2000,
+        "studyKit": 5000,
+        "studioPractical": null,
+        "workshopPractical": null,
+        "executivePremium": null
+      },
+      "forStudents": false,
+      "forCorpers": true,
+      "isActive": true,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "hpc-008",
+      "title": "Holiday Program for Primary Pupils",
+      "code": "HPC",
+      "category": "certificate",
+      "duration": "4 Weeks",
+      "price": 12000,
+      "shortDescription": "Fun and educational computer program for primary school children during holidays",
+      "description": "Interactive computer learning program designed for primary school pupils to develop basic computer skills in a fun environment.",
+      "outline": [
+        {
+          "id": 1,
+          "title": "Computer Appreciation",
+          "topics": ["Computer Basics for Kids", "Safe Computer Use", "Educational Software"]
+        },
+        {
+          "id": 2,
+          "title": "MS Windows (GUI)",
+          "topics": ["Basic Navigation", "Game Installation", "Parental Controls"]
+        },
+        {
+          "id": 3,
+          "title": "Paint Program",
+          "topics": ["Digital Art", "Color Mixing", "Creative Drawing"]
+        },
+        {
+          "id": 4,
+          "title": "Power Point",
+          "topics": ["Simple Presentations", "School Projects", "Story Telling"]
+        },
+        {
+          "id": 5,
+          "title": "Word Processing (MS Word)",
+          "topics": ["Writing Stories", "Formatting Text", "Printing Documents"]
+        }
+      ],
+      "sessions": [
+        {
+          "type": "regular",
+          "time": "9:00 AM - 12:00 PM",
+          "days": ["Monday", "Wednesday", "Friday"]
+        }
+      ],
+      "additionalFees": {
+        "registration": 2000,
+        "studyKit": 5000,
+        "studioPractical": null,
+        "workshopPractical": null,
+        "executivePremium": null
+      },
+      "forStudents": true,
+      "forCorpers": false,
+      "isActive": true,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "cdp-009",
+      "title": "Certificate in Desktop Publishing",
+      "code": "CDP",
+      "category": "certificate",
+      "duration": "4 Months",
+      "price": 36000,
+      "shortDescription": "Professional desktop publishing skills using Corel Draw and Photoshop",
+      "description": "Comprehensive training in desktop publishing tools including Corel Draw, Photoshop, and Publisher for creating professional print materials.",
+      "outline": [
+        {
+          "id": 1,
+          "title": "Computer Appreciation",
+          "topics": ["Computer Basics for Design", "Hardware Requirements"]
+        },
+        {
+          "id": 2,
+          "title": "Computer System Management",
+          "topics": ["File Management for Designers", "System Optimization"]
+        },
+        {
+          "id": 3,
+          "title": "Micro Computer (MS DOS)",
+          "topics": ["Command Line Basics", "File Operations"]
+        },
+        {
+          "id": 4,
+          "title": "MS Windows (GUI)",
+          "topics": ["Windows for Design Work", "Display Settings"]
+        },
+        {
+          "id": 5,
+          "title": "Typing Skills (Mavis)",
+          "topics": ["Text Input for Design", "Accuracy Training"]
+        },
+        {
+          "id": 6,
+          "title": "Word Processing (MS Word)",
+          "topics": ["Text Preparation", "Document Layout"]
+        },
+        {
+          "id": 7,
+          "title": "Publisher (MS Publisher)",
+          "topics": ["Brochure Design", "Flyer Creation", "Newsletter Layout"]
+        },
+        {
+          "id": 8,
+          "title": "Corel Draw (Basics)",
+          "topics": ["Vector Graphics", "Logo Design", "Illustration"]
+        },
+        {
+          "id": 9,
+          "title": "Photoshop (Basics)",
+          "topics": ["Photo Editing", "Image Manipulation", "Retouching"]
+        },
+        {
+          "id": 10,
+          "title": "MS Power Point",
+          "topics": ["Presentation Design", "Slide Layout", "Animation"]
+        },
+        {
+          "id": 11,
+          "title": "Internet and E-mail Utilization",
+          "topics": ["Online Resources", "Client Communication", "File Sharing"]
+        }
+      ],
+      "sessions": [
+        {
+          "type": "regular",
+          "time": "9:00 AM - 1:00 PM",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        },
+        {
+          "type": "weekend",
+          "time": "9:00 AM - 4:00 PM",
+          "days": ["Saturday"]
+        }
+      ],
+      "additionalFees": {
+        "registration": 2000,
+        "studyKit": 5000,
+        "studioPractical": null,
+        "workshopPractical": null,
+        "executivePremium": null
+      },
+      "forStudents": false,
+      "forCorpers": false,
+      "isActive": true,
+      "createdAt": "2024-01-01"
+    }
+  ]
+}
