@@ -1,0 +1,54 @@
+Registration Process:
+1. User selects registration type: [Student Enrollment] or [Customer Account]
+2. Form 1: Basic details (email, name, phone, password)
+3. For Students: 
+   - Program selection
+   - Emergency contact info
+   - Educational background
+4. Submission → "Registration Successful!"
+5. Payment Portal (accessible later via dashboard):
+   - View selected program
+   - Payment amount input (with 60% minimum warning)
+   - Paystack integration
+   - Payment history tracking
+
+
+cybergate-digital-solutions/
+├── public/
+│   ├── data/
+│   │   ├── programs.json
+│   │   └── accessories.json
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── registration/
+│   │   │   ├── RegistrationTypeSelector.tsx
+│   │   │   ├── StudentRegistrationForm.tsx
+│   │   │   ├── CustomerRegistrationForm.tsx
+│   │   │   └── PaymentPortal.tsx
+│   │   ├── programs/
+│   │   │   ├── ProgramCard.tsx
+│   │   │   ├── ProgramModal.tsx
+│   │   │   └── ProgramFilters.tsx
+│   │   ├── accessories/
+│   │   │   ├── ProductCard.tsx
+│   │   │   └── ProductDetail.tsx
+│   │   ├── feedback/
+│   │   │   ├── FeedbackForm.tsx
+│   │   │   └── FeedbackDisplay.tsx
+│   │   └── common/
+│   ├── pages/
+│   │   ├── HomePage.tsx
+│   │   ├── ProgramsPage.tsx
+│   │   ├── AccessoriesPage.tsx      # New page for laptop/accessories
+│   │   ├── RegisterPage.tsx
+│   │   ├── DashboardPage.tsx        # For payment portal and tracking
+│   │   ├── ContactPage.tsx
+│   │   └── AboutPage.tsx
+│   ├── services/
+│   │   ├── api.ts
+│   │   ├── programService.ts
+│   │   └── paymentService.ts        # Paystack integration
+│   └── utils/
+│       └── validators.ts            # Form validation
+└── ...

@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ShoppingCart, Sun, Moon, Menu, X } from 'lucide-react';
-// import { useTheme } from '../../context/ThemeContext';
 import { useTheme } from '../../context/ThemeContext';
 import { useApp } from '../../context/AppContext';
 
